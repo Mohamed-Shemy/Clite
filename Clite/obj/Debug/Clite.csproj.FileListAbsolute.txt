@@ -1,0 +1,10 @@
+E:\Codeing\C#\Clite\Clite\bin\Debug\Clite.exe.config
+E:\Codeing\C#\Clite\Clite\bin\Debug\Clite.exe
+E:\Codeing\C#\Clite\Clite\bin\Debug\Clite.pdb
+E:\Codeing\C#\Clite\Clite\obj\Debug\Clite.csprojResolveAssemblyReference.cache
+E:\Codeing\C#\Clite\Clite\obj\Debug\Clite.Properties.Resources.resources
+E:\Codeing\C#\Clite\Clite\obj\Debug\Clite.csproj.GenerateResource.Cache
+E:\Codeing\C#\Clite\Clite\obj\Debug\Clite.csproj.CoreCompileInputs.cache
+E:\Codeing\C#\Clite\Clite\obj\Debug\Clite.exe
+E:\Codeing\C#\Clite\Clite\obj\Debug\Clite.pdb
+E:\Codeing\C#\Clite\Clite\obj\Debug\Clite.Editor.resources
